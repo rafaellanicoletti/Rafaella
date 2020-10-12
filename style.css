@@ -1,0 +1,197 @@
+body{
+    background-color: white;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+h1{
+    
+    font-family: 'Big Casion', serif;
+    font-size: 40pt;
+    /* font-family: 'Playfair Display', serif; */
+
+}
+
+h3{
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Work Sans', sans-serif; */
+  font-size: 15pt;
+  font-weight: 100;
+
+}
+
+a{
+  color: rgb(245, 49, 150);
+}
+
+.card{
+  border: 0;
+}
+
+.card1, .card2, .card3, .card4{
+  border: 0;
+  background-color: #F8F9FB;
+  margin: 5%;
+  padding:2%;
+  /* box-shadow: 2px 2px 2px rgb(196, 196, 196); */
+  
+
+}
+
+.card-body1{
+  float:left;
+  width:auto;
+  position: relative;
+  left: 8.5%;
+  text-align: left;
+  margin-top: 40%;
+  
+}
+
+.card-body2{
+  float: right;;
+  width:auto;
+  position: relative;
+  left: -5%;
+  text-align: right;
+  margin-top: 90%;
+  
+}
+
+.card-body3{
+  float:left;
+  width:auto;
+  position: relative;
+  left: 4.5%;
+  text-align: left;
+  margin-top: 40%;
+  
+}
+
+.card-body4{
+  float: right;
+  width:auto;
+  position: relative;
+  /* left: 0%; */
+  text-align: right;
+  margin-top: 90%;
+  
+}
+
+
+.finance{
+  margin-left: 40%;
+}
+
+
+/* .containerTitle{
+    position: relative;
+    top: 60%;
+    left: 8.5%;
+    width: auto;
+}
+
+.containerH2{
+    position: relative;
+    top: 30%;
+    left: 10%;
+    width: auto;
+   
+}
+
+.containerH3{
+    position: relative;
+    top: 54%;
+    left: 16%;
+    width: auto;
+    text-align: center;
+
+} */
+
+
+.containerH3{
+    position: relative;
+    top: 50%;
+    width: 90%;
+    left: 5%;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 0;
+   
+}
+
+p{
+  margin: 0;
+}
+
+footer{
+  background: #cecece;
+  /* background-image: linear-gradient(#FFFFFF ,#616161, #3a3a3a); */
+  padding: 0;
+  height: 200px;
+  margin-top: 10%;
+}
+
+.icons{
+  padding-top: 5%;
+  padding-left: 38%;
+}
+
+
+#navbar{
+    background-color: white;
+}
+
+
+.navbar-toggler{
+    float: left;
+    border: 0;
+    
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+.Titles {
+  float:left;
+  width:auto;
+  position: relative;
+  /* top: -60%; */
+  left: 8.5%;
+  text-align: center;
+  margin-bottom: 0%;
+  margin-top: 20%;
+  margin-left: -5%;  
+    
+}
+
+.main {
+  float:left;
+  width:7%;
+}
+
+.right {
+  
+  float:right;
+  width:48%;
+  top: 20%;
+  position: relative;
+
+ 
+}
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .Titles, .main, .right {
+    width:100%;
+  }
+}
+
