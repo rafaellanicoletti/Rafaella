@@ -184,7 +184,8 @@ footer{
 }
 .responsive {
   max-width: 100%;
-  height: auto;
+  margin: 0 0 0 0;
+  
 }
 
 
