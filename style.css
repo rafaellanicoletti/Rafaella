@@ -20,6 +20,10 @@ h3{
 
 }
 
+h5, p, .p2{
+  font-family: 'Roboto', sans-serif;
+}
+
 a{
   color: rgb(245, 49, 150);
 }
@@ -185,6 +189,7 @@ footer{
 .responsive {
   max-width: 100%;
   margin: 0 0 0 0;
+  padding: 0;
   
 }
 
@@ -194,5 +199,20 @@ footer{
   .Titles, .main, .right {
     width:100%;
   }
+}
+
+
+
+  .jumbotron{
+    background: url("../Portfolio/assets/TimerAppImg/15.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    
+}
+.push-spaces
+{
+    height: 580px;
 }
 
