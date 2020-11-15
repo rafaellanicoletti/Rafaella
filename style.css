@@ -20,7 +20,7 @@ h3{
 
 }
 
-h5, p, .p2{
+h5, .p2{
   font-family: 'Roboto', sans-serif;
 }
 
@@ -124,7 +124,7 @@ a{
    
 }
 
-p{
+p, h3, li{
   margin: 0;
   font-family: 'raleway', sans-serif;
   text-align: justify;
@@ -207,7 +207,7 @@ footer{
 
 
   .jumbotron{
-    background: url("../Portfolio/assets/TimerAppImg/15.png") no-repeat center center; 
+    background: url("../Portfolio/assets/TimerAppImg/frontpage.png") no-repeat center center; 
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
