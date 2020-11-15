@@ -126,6 +126,9 @@ a{
 
 p{
   margin: 0;
+  font-family: 'raleway', sans-serif;
+  text-align: justify;
+  
 }
 
 footer{
@@ -214,5 +217,12 @@ footer{
 .push-spaces
 {
     height: 580px;
+}
+
+
+.moodboard{
+  width: 100%;
+  height: auto;
+
 }
 
