@@ -212,13 +212,14 @@ footer{
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
+
     
 }
-.push-spaces
-{
-    height: 580px;
-}
 
+.push-spaces{
+    height: 580px;
+
+}
 
 .moodboard{
   width: 100%;
