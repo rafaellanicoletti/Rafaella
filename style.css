@@ -21,6 +21,8 @@ h3{
 
 }
 
+
+
 h5, .p2{
   font-family: 'Roboto', sans-serif;
 }
@@ -43,6 +45,7 @@ a{
 
 }
 
+
 .card-body1{
   float:left;
   width:auto;
@@ -50,6 +53,16 @@ a{
   left: 8.5%;
   text-align: left;
   margin-top: 40%;
+  
+}
+
+.card-body6{
+  float: center;
+  width:auto;
+  position: relative;
+  left: 5%;
+  text-align: left;
+  margin-top: 30%;
   
 }
 
@@ -82,6 +95,7 @@ a{
   margin-top: 90%;
   
 }
+
 
 
 .finance{
