@@ -45,6 +45,11 @@ a{
 
 }
 
+/* MArgin on Ennemi title */
+.Coltitle{
+  margin: 80px;
+}
+/*end of margin*/
 
 .card-body1{
   float:left;
