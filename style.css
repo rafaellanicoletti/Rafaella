@@ -4,6 +4,10 @@ body{
     
 }
 
+.Freedomscreens{
+  border: 2px solid #555;
+}
+
 .button {
   border: none;
   color: white;
