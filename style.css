@@ -4,10 +4,6 @@ body{
     
 }
 
-.Freedomscreens{
-  border: 1px solid #cecece;
-}
-
 .button {
   border: none;
   color: white;
@@ -23,6 +19,9 @@ body{
 
 .button1 {background-color: #04AA6D;}
 
+.Freedomscreens{
+  border: 1px solid #cecece;
+}
 
 h1{
     
